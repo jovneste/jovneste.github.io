@@ -50,6 +50,10 @@ ul {
     background-color: rgb(118, 105, 223);
     color: white;
   }
+  .current{
+    background-color: rgb(118, 105, 223);
+    color: white;
+  }
   
  /*centers rest of body*/
  .info{
